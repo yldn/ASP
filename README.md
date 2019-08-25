@@ -1,3 +1,7 @@
+Assembler Practical Course focus on the assembler code and running on ARM-v8 processor 
+
+Project frame written by C code,and the core part is written by assembly code. and work successfully on processor of Raspberry Pi-3
+
 As newly discussed, we all work with shared Latex and commit to the master branch. We add our work directly to the repo.
 Our Task is about calculating CRC checksum. For further reading please check the Project sheet and our Latex Documentation.
 

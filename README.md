@@ -2,7 +2,7 @@ As newly discussed, we all work with shared Latex and commit to the master branc
 Our Task is about calculating CRC checksum. For further reading please check the Project sheet and our Latex Documentation.
 
 
-![](CRC-Fig-02.jpg?raw=true "Title")
+![](CRC-Fig-02.jpg?raw=true "CRC checksum")
 
 
 All the Codes are generated ,all rights reserved by and belong to Liudongnan Yang

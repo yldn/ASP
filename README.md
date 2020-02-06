@@ -1,6 +1,8 @@
 # CRC analyse
-Assembler Practical Course focus on the assembler code and running on ARM-v8 processor 
+
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
+Assembler Practical Course focus on the assembler code and running on ARM-v8 processor 
 
 
 Project frame written by C code,and the core part is written by assembly code. and work successfully on processor of Raspberry Pi-3
